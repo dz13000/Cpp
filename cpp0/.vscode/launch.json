@@ -1,0 +1,13 @@
+{
+  "version": "0.2.0",
+  "configurations": [
+    {
+      "name": "C/C++ Runner: Debug Session",
+      "type": "lldb",
+      "request": "launch",
+      "args": [],
+      "cwd": "/Users/camil/42/cpp/cpp0",
+      "program": "/Users/camil/42/cpp/cpp0/build/Debug/outDebug"
+    }
+  ]
+}
